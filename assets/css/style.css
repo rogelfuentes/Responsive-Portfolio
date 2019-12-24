@@ -89,7 +89,7 @@ footer {
   float: left;
   width: 274px;
   margin: 10px;
-  overflow: auto;
+  /* overflow: auto; */
 }
 
 
@@ -113,7 +113,7 @@ footer {
   margin: 120px auto;
   clear: both;
   padding-top: 15px;
-  padding-bottom: 600px;
+  padding-bottom: 1800px;
   background-color: #ffffff;
 
 } 
@@ -135,6 +135,7 @@ footer {
 
 #allProjects {
   margin-left: 40px;
+  
 }
 
 label {
