@@ -117,15 +117,16 @@ footer {
   background-color: #ffffff;
 
 } 
+
 #image {
   margin: 10px;
   
 
 }
 
-#imageme {
+/* #imageme {
   margin-left: 30px;
-}
+} */
 
 #cardtittle{
   color: white;
@@ -135,7 +136,7 @@ footer {
 
 #allProjects {
   margin-left: 40px;
-  
+
 }
 
 label {
