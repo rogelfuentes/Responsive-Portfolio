@@ -6,6 +6,7 @@ header {
   position: fixed;
   border-bottom: 2px solid #cccccc;
   text-align: center;
+  z-index: 1;
 }
 
 .name {
