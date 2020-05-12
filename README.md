@@ -4,3 +4,6 @@ This portfolio will show a visual summary with a short description of the projec
 * [Home](https://rogelfuentes.github.io/Responsive-Portfolio/index.html) - Descriptive tagline
 * [Portfolio](https://rogelfuentes.github.io/Responsive-Portfolio/portfolio.html) - Links to the projects
 * [Contact](https://rogelfuentes.github.io/Responsive-Portfolio/contact.html) - Send a message
+## Languages
+* **HTML5** -
+* **CSS** - 
